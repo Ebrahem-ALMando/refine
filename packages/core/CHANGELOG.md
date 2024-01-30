@@ -1,5 +1,11 @@
 # @refinedev/core
 
+## 4.46.3
+
+### Patch Changes
+
+-   [#5503](https://github.com/refinedev/refine/pull/5503) [`4b4d34208c`](https://github.com/refinedev/refine/commit/4b4d34208c44297c60c651e293765b4ab3b6d30a) Thanks [@BatuhanW](https://github.com/BatuhanW)! - refactor(core): re-export AuthBindings type as AuthProvider for consistency.
+
 ## 4.46.2
 
 ### Patch Changes
